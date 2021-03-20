@@ -45,7 +45,7 @@ if ($lanjut) {
             $text = '';
             $text .= "\n📚 Plugins *$data[nama]*";
             $text .= "\n🚦 Ver. $data[versi]";
-            $text .= "\n👤 $data[oleh]";
+            $text .= "\n👤 $data[xlaaf]";
             $text .= "\nℹ️_ $data[fungsi] _";
 
             $text .= "\n\n🔂 *Format*";
